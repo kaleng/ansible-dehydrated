@@ -13,6 +13,7 @@
 # See README.md for details. Commented out to enforce mandatory variable!
 #dehydrated_deploy_cert:
 
+dehydrated_disable_hook: false
 
 # See README.md for details.
 dehydrated_run_cron_on_every_ansible_run: true
